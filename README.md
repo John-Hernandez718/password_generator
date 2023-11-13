@@ -62,11 +62,10 @@ The save() function validates and ensures non-empty entries for website, email, 
 <img src="https://imgur.com/pxauCS8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the utility: <br/>
+This Python code utilizes Tkinter to build a simple password manager GUI with labeled entry fields for website details, email/username, and passwords. It includes buttons for generating passwords and saving entries, each linked to corresponding functions in the code.: <br/>
 <img src="https://imgur.com/m1gk6u2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the utility: <br/>
 </p>
 
 <!--
